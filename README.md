@@ -9,4 +9,4 @@ Dataset Drive link :-https://drive.google.com/drive/folders/1QQKDCaRsYDFO-UPGASa
 
 PROJECT DOCUMENTATION:- https://drive.google.com/file/d/1fLLbHiqeoqvcChUDYCFcNlvcvH0_k82z/view?usp=drive_link
 
-DEMONSTRATION LINK :- https://drive.google.com/file/d/1zcTlt_Kq0OUErdRHFTmt-mQLxuDO6KIM/view?usp=drive_link
+DEMONSTRATION LINK :- https://drive.google.com/file/d/1vEdVbAvm7g-91EsAg6v59IyDlZOgTZ21/view?usp=drive_link
